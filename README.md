@@ -1,7 +1,6 @@
 # random-ampm
 
 > Return am or pm. Very simple.
-  
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/mock-end/random-ampm/blob/master/LICENSE)
 

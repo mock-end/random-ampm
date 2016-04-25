@@ -1,6 +1,6 @@
 {
   "name": "random-ampm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return am or pm. Very simple.",
   "main": "index.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "random-bool": "^1.0.1"
+    "random-bool": "^1.0.2"
   },
   "repository": {
     "type": "git",
